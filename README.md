@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drksrv
+👋 Hi, I’m @drksrv
 About Me
 - 💻 Freelance Trader & Programmer working on payment apps, recently partnered with a local fintech company.
 - 📈 Experienced in trading XAUUSD, stocks, and crypto.
